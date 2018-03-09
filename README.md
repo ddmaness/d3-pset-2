@@ -12,7 +12,7 @@ I chose this infographic presented on [Business Insider](http://www.businessinsi
 I used the d3.js and dimple.js libraries to construct my visualization
 
 ## Result
-![alt text](./google-salaries.png "My Visualization");
+![alt text](./thumbnail.png "My Visualization");
 
 ## Problems
 I was unable to have the animation showing a line from the to of each bar to the corresponding point on the y axis display correctly on the second series of data.
